@@ -54,9 +54,8 @@ Follow these steps to install and use the command-line application without compi
 1. Go to the [Releases](https://github.com/ibrahimamam1/Scientific-Calculator/releases) page of this repository.
 
 2. Download the appropriate binary for your operating system:
-   - [Windows](link-to-windows-binary)
-   - [macOS](link-to-macos-binary)
-   - [Linux](link-to-linux-binary)
+   - [Windows](https://github.com/ibrahimamam1/Scientific-Calculator/releases/tag/sci-calc)
+   - [Linux](https://github.com/ibrahimamam1/Scientific-Calculator/releases/tag/c)
 
 3. Extract the downloaded ZIP file (if applicable).
 
